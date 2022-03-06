@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Misinformation on Reddit
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+As social media has grown in popularity, namely Reddit, its use for rapidly sharing information based on categories or topics (subreddits) has had massive implications for how people are usually exposed to information and the quality of the information they interact with. While Reddit has its benefits, e.g. providing instant access to - nearly - real time, categorized information, it has possibly played a role in worsening divisions and the spread of misinformation. Our results showed that subreddits with the highest proportions of misinformation posts tend to lean more towards politics and news. In addition, we found that despite the frequency of misinformation per subreddit, the average upvote ratio per submission seemed consistently high, which indicated that subreddits tend to be ideologically homogeneous. 
